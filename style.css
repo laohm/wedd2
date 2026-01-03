@@ -187,7 +187,7 @@ a:hover{
     justify-content: space-between;
 }
 .home-img{
-    background-image: url('images/foto1.jpg');
+    background-image: url('images/Foto1.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -196,7 +196,7 @@ a:hover{
     width: 100%;
     margin: 20px 0 0 0;
     height: 50vh;
-    background-image: url('images/foto1.jpg'); /* o altra versione */
+    background-image: url('images/Foto1.jpg'); /* o altra versione */
     background-size: cover;
     background-position: center;
 }
@@ -204,7 +204,7 @@ a:hover{
     display: block;
     height: 110vh;
     width: 50vw;
-    background-image: url('images/foto1.jpg'); /* aggiungi questa riga */
+    background-image: url('images/Foto1.jpg'); /* aggiungi questa riga */
     background-size: cover;
     background-position: center;
     background-color: lightblue;
@@ -433,7 +433,7 @@ a:hover{
     display: block;
     height: 100vh;
     width: 40vw;
-    background-image: url(https://firebasestorage.googleapis.com/v0/b/chuck-842bb.appspot.com/o/GurAmanWed%2Fpic7.jpg?alt=media&token=79b8d974-04ff-4b2d-bed5-82638399b34e);
+    background-image: url('images/FotoEnd.jpg');
     background-size: cover;
     background-position-y: top;
     background-repeat: no-repeat;
