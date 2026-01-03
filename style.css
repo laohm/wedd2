@@ -1,7 +1,9 @@
 /* <===================TYPOGRAPHY & FONTS===================> */
 
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Quicksand&display=swap');
-
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
+</style>
 /* <===================CSS VARIABLES===================> */
 
 :root{
@@ -38,6 +40,11 @@ h2{
     font-weight: bold;
 }
 h3{
+    font-size: var(--h3-size);
+    font-weight: 500;
+}
+h4{
+    font-family: "Rouge Script", cursive;
     font-size: var(--h3-size);
     font-weight: 500;
 }
