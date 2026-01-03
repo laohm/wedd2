@@ -47,7 +47,7 @@ h4.stefano-lucrezia {
     font-weight: 500;
 }
 h4.stefano-lucrezia.ampersand {
-    margin-left: 2rem;         /* sposta il & verso il centro senza centrarlo perfettamente */
+    margin-left: 5rem;         /* sposta il & verso il centro senza centrarlo perfettamente */
 }
 .reveal{
     position: relative;
