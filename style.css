@@ -432,8 +432,8 @@ a:hover{
 .registry-img{
     display: block;
     height: 100vh;
-    width: 100vw;
-    background-image: url('images/FotoEnd.jpg');
+    width: 50vw;
+    background-image: url('images/FotoEnd.jpeg');
     background-size: cover;
     background-position-y: top;
     background-repeat: no-repeat;
