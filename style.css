@@ -45,10 +45,9 @@ h4.stefano-lucrezia {
     font-family: 'Rouge Script', cursive;
     font-size: 7rem;       /* dimensione grande per il titolo */
     font-weight: 500;
-    /*font-style: normal;
-    display: block;        /* forza a blocco per occupare tutta la larghezza */
-    /*text-align: left;      /* allinea a sinistra */
-    /*margin: 2rem 0;        /* spazio sopra e sotto */
+}
+h4.stefano-lucrezia.ampersand {
+    margin-left: 2rem;         /* sposta il & verso il centro senza centrarlo perfettamente */
 }
 .reveal{
     position: relative;
