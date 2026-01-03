@@ -328,10 +328,10 @@ a:hover{
     background-image: url('images/poggio2.jpg'); 
     background-position-x: right;
 }
-.gallery-img:nth-child(3){
+.gallery-img:nth-child(2){
     background-image: url('images/poggio1.jpg');
 }
-.gallery-img:nth-child(2){
+.gallery-img:nth-child(3){
     background-position-y: top;
     background-image: url('images/ristorante.png');
 }
@@ -437,6 +437,7 @@ a:hover{
     background-size: cover;
     background-position-y: top;
     background-repeat: no-repeat;
+    background-color: lightblue;
     /* background-attachment: fixed; */
 }
 .registry-img-sm{
