@@ -204,6 +204,9 @@ a:hover{
     display: block;
     height: 110vh;
     width: 50vw;
+    background-image: url('images/foto1.jpg'); /* aggiungi questa riga */
+    background-size: cover;
+    background-position: center;
     background-position-x: -100px;
 }
 @media (max-width:1000px){
