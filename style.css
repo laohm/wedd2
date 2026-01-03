@@ -187,7 +187,7 @@ a:hover{
     justify-content: space-between;
 }
 .home-img{
-    background-image: url('foto12.jpg');
+    background-image: url('images/foto1.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -196,7 +196,7 @@ a:hover{
     width: 100%;
     margin: 20px 0 0 0;
     height: 50vh;
-    background-image: url('foto12.jpg'); /* o altra versione */
+    background-image: url('images/foto1.jpg'); /* o altra versione */
     background-size: cover;
     background-position: center;
 }
