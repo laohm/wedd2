@@ -43,12 +43,12 @@ h3{
 }
 h4.stefano-lucrezia {
     font-family: 'Rouge Script', cursive;
-    font-size: 10rem;          /* aumenta la dimensione per titoli */
+    font-size: 6rem;       /* dimensione grande per il titolo */
     font-weight: 400;
     font-style: normal;
-    text-align: left;       /* centrato nella pagina */
-    letter-spacing: 0.05em;  /* leggermente più spazioso */
-    margin: 2rem 0;           /* spazio sopra e sotto */
+    display: block;        /* forza a blocco per occupare tutta la larghezza */
+    text-align: left;      /* allinea a sinistra */
+    margin: 2rem 0;        /* spazio sopra e sotto */
 }
 .reveal{
     position: relative;
