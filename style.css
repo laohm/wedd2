@@ -101,10 +101,21 @@ nav {
 }
 
 label.logo img {
-    max-height: 150px;
+    /*max-height: 150px;*/
+    height: 150px; 
     width: auto;
 }
-
+@media (max-width:1000px){
+    label.logo{
+        font-size: 20px;
+    }
+    nav ul li a{
+        font-size: 10px;
+    }
+    html{
+        font-size: 10px;
+    }
+}
 /*@media (max-width: 768px) {
     label.logo img {
         max-height: 35px;
@@ -165,17 +176,7 @@ a:hover{
 #check{
     display: none;
 }
-@media (max-width:1000px){
-    label.logo{
-        font-size: 20px;
-    }
-    nav ul li a{
-        font-size: 10px;
-    }
-    html{
-        font-size: 10px;
-    }
-}
+
 @media (max-width:570px){
     .checkbtn{
         display: block;
