@@ -97,7 +97,19 @@ nav {
     height: 80px;
     width: 100%;
     margin-bottom: 20vh;
+    padding: 0 30px;
 }
+
+label.logo img {
+    max-height: 50px;
+    width: auto;
+}
+
+/*@media (max-width: 768px) {
+    label.logo img {
+        max-height: 35px;
+    }
+}*/
 /* nav{
     height: 3vh;
     height: 80px;
@@ -115,13 +127,13 @@ label.logo {
     align-items: center;
     padding-left: 30px;
 }
-
+/*
 label.logo img {
     height: 50px;
     width: auto;
-}
+}*/
 nav ul{
-    float: right;
+    /*float: right;*/
     margin-right: 20px;
     list-style: none;
 }
