@@ -8,6 +8,7 @@
     --h1-size: 7rem;
     --h2-size: 2.1rem;
     --h3-size: 1.7rem;
+    --h4-size: 3rem;
     --text-size: 1.3rem;
     --horizontal-margin-spacing:3rem;
     --grey-color-light: rgba(232,230,230,.6);
@@ -41,14 +42,12 @@ h3{
     font-size: var(--h3-size);
     font-weight: 500;
 }
-h4.stefano-lucrezia {
-    font-family: 'Rouge Script', cursive;
-    font-size: 7rem;       /* dimensione grande per il titolo */
-    font-weight: 500;
+
+h4{
+    font-size: var(--h4-size);
+    font-weight: bold;
 }
-h4.stefano-lucrezia.ampersand {
-    margin-left: 7rem;         /* sposta il & verso il centro senza centrarlo perfettamente */
-}
+
 .reveal{
     position: relative;
     transform: translateY(150px);
