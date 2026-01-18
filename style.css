@@ -461,6 +461,10 @@ a:hover{
     text-align: justify;
     margin: 20px 0;
 }
+.registry-container .text p {
+    margin: 0 0 1rem 0; /* margine solo sotto: spazio verticale */
+}
+
 .registry-img{
     display: block;
     height: 90vh;
