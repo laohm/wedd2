@@ -6,7 +6,7 @@
 
 :root{
     --h1-size: 7rem;
-    --h2-size: 2.2rem;
+    --h2-size: 2.1rem;
     --h3-size: 1.7rem;
     --text-size: 1.3rem;
     --horizontal-margin-spacing:3rem;
@@ -68,6 +68,7 @@ h4.stefano-lucrezia.ampersand {
 .huge-btn{
     display: block;
     font-size: 2rem;
+    line-height: 2.5rem; /* spazio verticale sufficiente tra le righe */
     background: transparent;
     border: 1px solid #212121;
     padding: 25px 50px;
@@ -462,7 +463,7 @@ a:hover{
     margin: 20px 0;
 }
 .registry-container .text p {
-    margin: 0 0 2rem 0; /* margine solo sotto: spazio verticale */
+    margin: 0 0 1rem 0; /* margine solo sotto: spazio verticale */
 }
 
 .registry-img{
