@@ -454,7 +454,8 @@ a:hover{
 }
 .registry-container{
     display: block;
-    width: 10vw;
+    max-width: 600px;
+    width: 100%;
 }
 .registry-container .text{
     text-align: justify;
