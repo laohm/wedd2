@@ -90,13 +90,20 @@ h4.stefano-lucrezia.ampersand {
     top: 100vh;
 }
 /* <===================NAVBAR===================> */
-
-nav{
-    /*height: 3vh;*/
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     height: 80px;
     width: 100%;
     margin-bottom: 20vh;
 }
+/* nav{
+    height: 3vh;
+    height: 80px;
+    width: 100%;
+    margin-bottom: 20vh;
+}*/
 /*label.logo{
     font-size: 35px;
     line-height: 80px;
